@@ -1,2 +1,5 @@
 # AI-TIC-TAC-TOE
-A Python-based Tic-Tac-Toe game with an AI opponent built using Tkinter for GUI and NumPy for game logic. The AI uses the Minimax algorithm to make optimal moves, allowing the player to compete against a computer that never loses.
+The AI Tic-Tac-Toe Game is a Python mini-project that allows users to play the classic Tic-Tac-Toe game against an intelligent computer opponent. The application is developed using Tkinter for the graphical interface and NumPy for efficient board management.
+The AI is implemented using the Minimax algorithm, which evaluates all possible moves to choose the best one, ensuring optimal play.
+The system highlights the winner, prevents invalid moves, and provides a user-friendly, interactive experience.
+This project demonstrates concepts of Artificial Intelligence, Game Theory, and Python GUI programming.
